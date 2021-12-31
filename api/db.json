@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "This is a great stream",
+      "description": "HI this is the best",
+      "id": 1
+    },
+    {
+      "title": "HI",
+      "description": "there",
+      "userId": "103187720908043441885",
+      "id": 2
+    },
+    {
+      "title": "hahaha",
+      "description": "no way! bro!",
+      "userId": "103187720908043441885",
+      "id": 5
+    },
+    {
+      "title": "For delete",
+      "description": "gonna delete",
+      "userId": "103187720908043441885",
+      "id": 6
+    }
+  ]
+}
